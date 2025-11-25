@@ -1,3 +1,5 @@
+### /document refers to the .pdf file in the repo this is used as base doc for creating vectors and for querying purpose
+
 ### Document Q&A RAG System with LangChain and Pinecone
 
 This repository contains a simple implementation of a Retrieval-Augmented Generation (RAG) system. It allows you to ingest PDF documents, create vector embeddings using OpenAI, store them in a Pinecone vector database, and then use a Large Language Model (LLM) to answer questions based on the document content.
